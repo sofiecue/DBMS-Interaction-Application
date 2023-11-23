@@ -1,5 +1,6 @@
 # Database Interaction with PostgreSQL and Application Programming:
 # Students Table Supporting Application 
+DEMO VIDEO: https://www.loom.com/share/b7cfc89cb5fc47f7b42113ca5fb6a1de?sid=c075be63-65f9-46a9-8e0a-c5db9b859c3c
 
 ## Setup Instructions:
 **Prerequisites**
